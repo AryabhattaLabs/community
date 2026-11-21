@@ -10,7 +10,7 @@ There is no code here. This repository exists for its **Discussions** and **Issu
 |---|---|
 | Tell us what's working or not in a product (JoeHukum, NibbleIQ, RoleGPS, Favseen) | [Product feedback form](https://github.com/AryabhattaLabs/community/issues/new?template=product-feedback.yml) |
 | Suggest a feature or a new tool | [Ideas](https://github.com/AryabhattaLabs/community/discussions/categories/ideas) |
-| Comment on a tool before it is released | [Design reviews](https://github.com/AryabhattaLabs/community/discussions/categories/design-reviews) |
+| Comment on a tool before it is released | [Discussions](https://github.com/AryabhattaLabs/community/discussions) |
 | Propose building something with us | [Collaboration form](https://github.com/AryabhattaLabs/community/issues/new?template=collaborate.yml) |
 | Ask how something works | [Q&A](https://github.com/AryabhattaLabs/community/discussions/categories/q-a) |
 | Report a bug in Taught | [Taught's issue page](https://github.com/AryabhattaLabs/taught-releases/issues/new/choose) |
@@ -18,7 +18,7 @@ There is no code here. This repository exists for its **Discussions** and **Issu
 
 ## Open for design review now
 
-These tools are written up but not yet released. Each has a thread where the design is open to comment before the code is public:
+These tools are written up but not yet released. Their designs are open to comment in Discussions before the code is public:
 
 - `agent-tool-result-reducer`: shrinking large tool results for LLM agents without silently losing data.
 - `mcp-rest-bridge`: putting an existing authenticated REST API in front of MCP clients.
