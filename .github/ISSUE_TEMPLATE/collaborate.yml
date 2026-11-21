@@ -1,0 +1,31 @@
+name: Build something with us
+description: You know a domain or a problem well and want to explore building for it together.
+labels: [collaboration]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This page is public.** Share the outline here. If part of it is confidential, say so and we will move to a private channel.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem do you want solved?
+      description: Who has it, and how do they handle it today?
+    validations:
+      required: true
+  - type: textarea
+    id: you
+    attributes:
+      label: What do you bring?
+      description: For example domain expertise, data, users, engineering time.
+    validations:
+      required: true
+  - type: dropdown
+    id: shape
+    attributes:
+      label: What kind of collaboration?
+      options: ["A product for people or professionals", "An open-source tool", "Research or an experiment", "Not sure yet"]
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else

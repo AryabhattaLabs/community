@@ -1,0 +1,34 @@
+name: Product feedback
+description: What's working, what isn't, or what you'd want next in one of our products.
+labels: [product-feedback]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This page is public.** Don't include health details, account details, or anything about another person.
+  - type: dropdown
+    id: product
+    attributes:
+      label: Which product?
+      options: ["JoeHukum", "NibbleIQ", "RoleGPS", "Favseen", "Vault Breaker", "Other"]
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of feedback?
+      options: ["Something is confusing", "Something is missing", "Something is wrong", "Something works well", "A suggestion"]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, or what would you like?
+      description: A concrete example helps most. What were you trying to do?
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where do you use it?
+      description: For example iPhone, Android, WhatsApp, Chrome on a laptop.
