@@ -18,9 +18,10 @@ There is no code here. This repository exists for its **Discussions** and **Issu
 
 ## Open for design review now
 
+[agent-tool-result-reducer](https://github.com/AryabhattaLabs/agent-tool-result-reducer) is released: it shrinks large tool results for LLM agents without silently losing data. Design questions about it are welcome in Discussions; bugs go to [its issues](https://github.com/AryabhattaLabs/agent-tool-result-reducer/issues).
+
 These tools are written up but not yet released. Their designs are open to comment in Discussions before the code is public:
 
-- `agent-tool-result-reducer`: shrinking large tool results for LLM agents without silently losing data.
 - `mcp-rest-bridge`: putting an existing authenticated REST API in front of MCP clients.
 - `pytest-frozen-allowlist`: architecture rules with exception lists that can only shrink.
 - `youtube-timestamped-rag`: answers from YouTube videos that link to the exact second.
