@@ -13,7 +13,7 @@ There is no code here. This repository exists for its **Discussions** and **Issu
 | Comment on a tool before it is released | [Discussions](https://github.com/AryabhattaLabs/community/discussions) |
 | Propose building something with us | [Collaboration form](https://github.com/AryabhattaLabs/community/issues/new?template=collaborate.yml) |
 | Ask how something works | [Q&A](https://github.com/AryabhattaLabs/community/discussions/categories/q-a) |
-| Report a bug in Taught | [Taught's issue page](https://github.com/AryabhattaLabs/taught-releases/issues/new/choose) |
+| Report a bug in Taught | [Taught's issue page](https://github.com/AryabhattaLabs/taught/issues/new/choose) |
 | Report a security problem | Privately, as described in [SECURITY](https://github.com/AryabhattaLabs/.github/blob/main/SECURITY.md) |
 
 ## Open for design review now

@@ -4,7 +4,7 @@ contact_links:
     url: https://github.com/AryabhattaLabs/community/discussions/categories/ideas
     about: Features and new tools are discussed in the open, in Discussions.
   - name: Report a bug in Taught
-    url: https://github.com/AryabhattaLabs/taught-releases/issues/new/choose
+    url: https://github.com/AryabhattaLabs/taught/issues/new/choose
     about: Taught has its own issue page.
   - name: Report a security problem
     url: https://github.com/AryabhattaLabs/.github/blob/main/SECURITY.md
