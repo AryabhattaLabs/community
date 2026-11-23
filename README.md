@@ -10,21 +10,15 @@ There is no code here. This repository exists for its **Discussions** and **Issu
 |---|---|
 | Tell us what's working or not in a product (JoeHukum, NibbleIQ, RoleGPS, Favseen) | [Product feedback form](https://github.com/AryabhattaLabs/community/issues/new?template=product-feedback.yml) |
 | Suggest a feature or a new tool | [Ideas](https://github.com/AryabhattaLabs/community/discussions/categories/ideas) |
-| Comment on a tool before it is released | [Discussions](https://github.com/AryabhattaLabs/community/discussions) |
+| Discuss how a tool works, or should work | [Design reviews](https://github.com/AryabhattaLabs/community/discussions/categories/design-reviews) |
 | Propose building something with us | [Collaboration form](https://github.com/AryabhattaLabs/community/issues/new?template=collaborate.yml) |
 | Ask how something works | [Q&A](https://github.com/AryabhattaLabs/community/discussions/categories/q-a) |
 | Report a bug in Taught | [Taught's issue page](https://github.com/AryabhattaLabs/taught/issues/new/choose) |
 | Report a security problem | Privately, as described in [SECURITY](https://github.com/AryabhattaLabs/.github/blob/main/SECURITY.md) |
 
-## Open for design review now
+## Design reviews
 
 [agent-tool-result-reducer](https://github.com/AryabhattaLabs/agent-tool-result-reducer) is released: it shrinks large tool results for LLM agents without silently losing data. Design questions about it are welcome in Discussions; bugs go to [its issues](https://github.com/AryabhattaLabs/agent-tool-result-reducer/issues).
-
-These tools are written up but not yet released. Their designs are open to comment in Discussions before the code is public:
-
-- `mcp-rest-bridge`: putting an existing authenticated REST API in front of MCP clients.
-- `pytest-frozen-allowlist`: architecture rules with exception lists that can only shrink.
-- `youtube-timestamped-rag`: answers from YouTube videos that link to the exact second.
 
 ## Building with us
 
